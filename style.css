@@ -1,0 +1,47 @@
+body{
+    font-size: 16px;
+    background-color: #f2eecb;
+    padding: 3%;
+}
+
+h1{
+    font-size: 29px;
+    text-align: center;
+    padding: 30px
+}
+
+.my_name {
+    text-align: center;
+}
+
+p{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.description{
+    position: absolute;
+    top: 32%;
+    right: 30%;
+
+}
+
+.font_diff{
+    font-size: 17px;
+}
+
+#photo{
+    float: left; 
+    height: 280px;
+    padding: 10px;
+    background-color: brown;  
+}
+
+.image_container{
+    height: 300px;
+    position: relative;
+}
+
+ul li:nth-child(odd){
+    background-color:sandybrown;
+}
